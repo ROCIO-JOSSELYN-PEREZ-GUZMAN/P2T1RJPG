@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P2T1RJPG</string>
+    <string name="operacion">CALCULADORA</string>
+    <string name="val1">Valor 1</string>
+    <string name="val2">valor 2</string>
+    <string name="suma">SUMA</string>
+    <string name="resta">RESTA</string>
+    <string name="mul">MULTIPLICACION</string>
+    <string name="divi">DIVICION</string>
+    <string name="res">RESULTADO</string>
+</resources>
